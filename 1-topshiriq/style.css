@@ -1,0 +1,82 @@
+body{
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+div{
+    background-color: blue;
+    border: 2px solid transparent;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 300px;
+    height: 430px;
+    padding: 25px;
+    color: aliceblue;
+    display: inline-block;
+}
+form{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid transparent;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 300px;
+    height: 430px;
+    padding: 25px;
+    /* color: aliceblue; */
+    display: inline-block;
+    
+}
+form input{
+    width: 130px;
+    height: 23px;
+    margin: 5px;
+}
+div button{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
+form button{
+    background-color: blue;
+    border: 1px solid transparent;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 80px;
+    height: 50;
+
+
+}
+.h2{
+    color: blue;
+}
+/* form input :nth-child(3){
+    width: 200px;
+    background-color: black;
+} */
+.in1{
+    width: 280px;
+}
+.l1{
+    margin-left: 72px;
+}
+form label{
+    margin: 5px;
+}
+.l2{
+    margin-left: 5px;
+    text-align: left;
+    display: inline-block;
+    
+}
+.l3{
+    margin-left: 82px;
+}
+.in2{
+    text-align: left;
+    display: inline-block;
+}
